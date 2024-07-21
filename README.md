@@ -4,7 +4,7 @@
 
 # 🧠💬 L'Art du Prompt Engineering : Maîtriser les LLMs
 
-[![Made with AI](https://img.shields.io/badge/Crafted%20with-AI%20Synergy-8A2BE2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMCAyMHYtNmgydjZoLTJ6bTQgMHYtOGgydjhoLTJ6bTQtMTFWN2gtMlY0aDJ2NXoiLz48L3N2Zz4=)](https://www.anthropic.com)
+[![Made with AI](https://img.shields.io/badge/Crafted%20with-AI%20Synergy-8A2BE2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMCAyMHYtNmgydjZoLTJ6bTQgMHYtOGgydjhoLTJ6bTQtMTFWN2gtMlY0aDJ2NXoiLz48L3N2Zz4=)](https://www.alkimi.art)
 [![Markdown Mastery](https://img.shields.io/badge/Markdown-Mastery-2ea44f?style=for-the-badge&logo=markdown)](https://daringfireball.net/projects/markdown/)
 [![Obsidian Optimized](https://img.shields.io/badge/Obsidian-Optimized-4A148C?style=for-the-badge&logo=obsidian)](https://obsidian.md/)
 
