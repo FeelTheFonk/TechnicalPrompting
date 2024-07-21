@@ -1,8 +1,8 @@
 <div align="center">
 
-![svjay](https://github.com/user-attachments/assets/a80c242b-0cea-4a1c-a61d-024627401692)
-
 # 🧠💬 L'Art du Prompt Engineering : Maîtriser les LLMs
+
+![svjay](https://github.com/user-attachments/assets/a80c242b-0cea-4a1c-a61d-024627401692)
 
 [![Made with AI](https://img.shields.io/badge/Crafted%20with-AI%20Synergy-8A2BE2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMCAyMHYtNmgydjZoLTJ6bTQgMHYtOGgydjhoLTJ6bTQtMTFWN2gtMlY0aDJ2NXoiLz48L3N2Zz4=)](https://www.alkimi.art)
 [![Markdown Mastery](https://img.shields.io/badge/Markdown-Mastery-2ea44f?style=for-the-badge&logo=markdown)](https://daringfireball.net/projects/markdown/)
@@ -19,7 +19,10 @@
 3. [🚀 Techniques Avancées](#-techniques-avancées)
 4. [🧩 Combinaisons et Stratégies Hybrides](#-combinaisons-et-stratégies-hybrides)
 5. [💡 Exemples Pratiques](#-exemples-pratiques)
-6. [🔮 Conclusion et Perspectives](#-conclusion-et-perspectives)
+6. [🤔 Considérations Éthiques](#-considérations-éthiques)
+7. [🔮 Conclusion et Perspectives](#-conclusion-et-perspectives)
+
+---
 
 ## 🌠 Introduction
 
@@ -50,6 +53,8 @@ mindmap
       Évolution constante
 ```
 
+*Figure 1: Les aspects clés du Prompt Engineering*
+
 </div>
 
 ### L'évolution fascinante du Prompt Engineering
@@ -71,24 +76,32 @@ journey
     IA augmentée par l'humain: 10: AI, Humains, Chercheurs, Ingénieurs, Éthiciens
 ```
 
+*Figure 2: L'évolution du Prompt Engineering à travers le temps*
+
 </div>
+
+---
 
 ## 🎯 Optimisation des Prompts
 
 Maîtriser l'art du prompt engineering, c'est comme apprendre à diriger un orchestre symphonique. Chaque mot, chaque nuance compte. Voici les clés pour composer des prompts qui résonnent :
 
 ### 1. 🔍 Clarté Cristalline
+
 Imaginez que vous parlez à un génie littéral. Soyez précis, concis, et sans ambiguïté.
 
-**Avant** : "Parle-moi de l'économie"
-**Après** : "Analyse l'impact de l'inflation sur le pouvoir d'achat des ménages français en 2023, en te concentrant sur les secteurs les plus touchés"
+> **Exemple**:
+> **Avant** : "Parle-moi de l'économie"
+> **Après** : "Analyse l'impact de l'inflation sur le pouvoir d'achat des ménages français en 2023, en te concentrant sur les secteurs les plus touchés"
 
 ### 2. 🌍 Contextualisation Riche
+
 Donnez à votre LLM les lunettes appropriées pour voir le monde comme vous le souhaitez.
 
-**Exemple** : "En tenant compte de la récente pandémie, des tensions géopolitiques en Europe de l'Est, et de la transition énergétique mondiale, analyse les perspectives économiques de la France pour les 5 prochaines années"
+> **Exemple** : "En tenant compte de la récente pandémie, des tensions géopolitiques en Europe de l'Est, et de la transition énergétique mondiale, analyse les perspectives économiques de la France pour les 5 prochaines années"
 
 ### 3. 🔄 Itération Intelligente
+
 Chaque réponse est une opportunité d'affiner votre approche. Pensez comme un sculpteur, affinant progressivement votre œuvre.
 
 <div align="center">
@@ -107,32 +120,38 @@ graph TD
     style E fill:#5b9aa0,stroke:#333,stroke-width:2px
 ```
 
+*Figure 3: Processus d'itération du prompt engineering*
+
 </div>
 
 ### 4. 📊 Décomposition Stratégique
+
 Pour les tâches complexes, adoptez une approche diviser pour mieux régner.
 
-**Exemple** :
 1. "Identifie les 5 principales industries affectées par l'inflation en France"
 2. "Pour chaque industrie, analyse l'impact sur les consommateurs"
 3. "Propose des stratégies d'adaptation pour chaque secteur"
 
 ### 5. ⚖️ Validation Croisée
+
 Ne vous fiez pas à une seule réponse. Triangulез l'information pour une fiabilité accrue.
 
-**Prompt** : "Génère trois analyses indépendantes de l'impact du télétravail sur la productivité des entreprises. Ensuite, compare et contraste ces analyses pour identifier les points de convergence et de divergence"
+> **Prompt** : "Génère trois analyses indépendantes de l'impact du télétravail sur la productivité des entreprises. Ensuite, compare et contraste ces analyses pour identifier les points de convergence et de divergence"
 
 ### 6. 🧠 Adaptation au Modèle
+
 Chaque LLM a sa personnalité. Apprenez à parler son langage.
 
-**Exemple pour GPT-4** : "En utilisant ta capacité d'analyse multidimensionnelle, évalue l'impact environnemental, économique et social de la transition vers les véhicules électriques en Europe"
+> **Exemple pour GPT-4** : "En utilisant ta capacité d'analyse multidimensionnelle, évalue l'impact environnemental, économique et social de la transition vers les véhicules électriques en Europe"
 
 ### 7. 💬 Feedback Explicite
+
 Guidez votre LLM vers l'excellence en lui demandant de s'auto-évaluer.
 
-**Prompt** : "Après avoir fourni ton analyse, évalue la fiabilité de tes sources, identifie les potentiels biais dans ton raisonnement, et suggère des domaines nécessitant une recherche plus approfondie"
+> **Prompt** : "Après avoir fourni ton analyse, évalue la fiabilité de tes sources, identifie les potentiels biais dans ton raisonnement, et suggère des domaines nécessitant une recherche plus approfondie"
 
 ### 8. 🔧 Ajustement Dynamique
+
 Soyez prêt à pivoter en fonction des réponses reçues.
 
 <div align="center">
@@ -153,27 +172,35 @@ sequenceDiagram
     H->>H: Itère jusqu'à satisfaction
 ```
 
+*Figure 4: Processus d'ajustement dynamique du prompt*
+
 </div>
 
 ### 9. 🎭 Utilisation de Métaphores
+
 Les analogies peuvent simplifier des concepts complexes et stimuler la créativité.
 
-**Prompt** : "Explique le fonctionnement de la blockchain comme si c'était un livre de comptes partagé dans une colocation étudiante"
+> **Prompt** : "Explique le fonctionnement de la blockchain comme si c'était un livre de comptes partagé dans une colocation étudiante"
 
 ### 10. 🎨 Contraintes Créatives
+
 Parfois, les limites stimulent l'innovation.
 
-**Prompt** : "Propose une solution innovante à la pollution plastique des océans en t'inspirant uniquement des principes de la biomimétique"
+> **Prompt** : "Propose une solution innovante à la pollution plastique des océans en t'inspirant uniquement des principes de la biomimétique"
 
 ### 11. 👥 Perspective Multiple
+
 Encouragez une analyse sous différents angles pour une compréhension holistique.
 
-**Prompt** : "Analyse l'impact de l'intelligence artificielle sur l'emploi du point de vue d'un PDG, d'un employé de bureau, d'un étudiant en informatique, et d'un éthicien"
+> **Prompt** : "Analyse l'impact de l'intelligence artificielle sur l'emploi du point de vue d'un PDG, d'un employé de bureau, d'un étudiant en informatique, et d'un éthicien"
 
 ### 12. ⏪ Raisonnement Inverse
+
 Parfois, partir de la fin peut éclairer le chemin.
 
-**Prompt** : "Imaginons qu'en 2050, la pauvreté mondiale a été réduite de 90%. Décris rétrospectivement les étapes et innovations clés qui ont permis d'atteindre cet objectif"
+> **Prompt** : "Imaginons qu'en 2050, la pauvreté mondiale a été réduite de 90%. Décris rétrospectivement les étapes et innovations clés qui ont permis d'atteindre cet objectif"
+
+---
 
 ## 🚀 Techniques Avancées
 
@@ -181,28 +208,22 @@ Plongeons dans les techniques de pointe qui transformeront vos interactions avec
 
 ### 1. 🔗 Chain-of-Thought (CoT)
 
-<div align="center">
-
-![Chain of Thought](https://svgshare.com/i/11WN.svg)
-
-</div>
-
 **Description** : Guidez le LLM à travers un processus de réflexion pas à pas, comme un détective résolvant une énigme.
 
 **Utilisation** : Idéale pour les problèmes complexes nécessitant un raisonnement multi-étapes.
 
-**Exemple** :
-```
-Q: Un train parcourt 150 km en 2 heures. Quelle est sa vitesse moyenne en km/h ?
-
-R: Réfléchissons étape par étape :
-1. Nous connaissons la distance : 150 km
-2. Nous connaissons le temps : 2 heures
-3. La formule de la vitesse moyenne est : vitesse = distance / temps
-4. Appliquons la formule : 150 km / 2 heures = 75 km/h
-
-Donc, la vitesse moyenne du train est de 75 km/h.
-```
+> **Exemple** :
+> ```
+> Q: Un train parcourt 150 km en 2 heures. Quelle est sa vitesse moyenne en km/h ?
+> 
+> R: Réfléchissons étape par étape :
+> 1. Nous connaissons la distance : 150 km
+> 2. Nous connaissons le temps : 2 heures
+> 3. La formule de la vitesse moyenne est : vitesse = distance / temps
+> 4. Appliquons la formule : 150 km / 2 heures = 75 km/h
+> 
+> Donc, la vitesse moyenne du train est de 75 km/h.
+> ```
 
 ### 2. 💻 Program of Thoughts (PoT)
 
@@ -210,18 +231,22 @@ Donc, la vitesse moyenne du train est de 75 km/h.
 
 **Utilisation** : Particulièrement efficace pour les problèmes mathématiques ou logiques complexes.
 
-**Exemple** :
-```python
-def calculer_vitesse_moyenne(distance, temps):
-    return distance / temps
-
-distance = 150  # km
-temps = 2  # heures
-vitesse = calculer_vitesse_moyenne(distance, temps)
-print(f"La vitesse moyenne du train est de {vitesse} km/h")
-```
+> **Exemple** :
+> ```python
+> def calculer_vitesse_moyenne(distance, temps):
+>     return distance / temps
+> 
+> distance = 150  # km
+> temps = 2  # heures
+> vitesse = calculer_vitesse_moyenne(distance, temps)
+> print(f"La vitesse moyenne du train est de {vitesse} km/h")
+> ```
 
 ### 3. 🔄 Self-Consistency
+
+**Description** : Générez plusieurs chemins de raisonnement et sélectionnez le plus cohérent, comme un conseil d'experts internes.
+
+**Utilisation** : Améliore la fiabilité sur des tâches complexes ou ambiguës.
 
 <div align="center">
 
@@ -239,23 +264,21 @@ graph TD
     style F fill:#5b9aa0,stroke:#333,stroke-width:2px
 ```
 
+*Figure 5: Processus de Self-Consistency*
+
 </div>
 
-**Description** : Générez plusieurs chemins de raisonnement et sélectionnez le plus cohérent, comme un conseil d'experts internes.
-
-**Utilisation** : Améliore la fiabilité sur des tâches complexes ou ambiguës.
-
-**Exemple** :
-```
-Problème : Évaluez l'impact du réchauffement climatique sur la biodiversité marine.
-
-Approche 1 : [Détaillez un premier raisonnement]
-Approche 2 : [Détaillez un deuxième raisonnement]
-Approche 3 : [Détaillez un troisième raisonnement]
-
-Analyse comparative : [Comparez les trois approches]
-Conclusion : [Choisissez et justifiez l'approche la plus cohérente]
-```
+> **Exemple** :
+> ```
+> Problème : Évaluez l'impact du réchauffement climatique sur la biodiversité marine.
+> 
+> Approche 1 : [Détaillez un premier raisonnement]
+> Approche 2 : [Détaillez un deuxième raisonnement]
+> Approche 3 : [Détaillez un troisième raisonnement]
+> 
+> Analyse comparative : [Comparez les trois approches]
+> Conclusion : [Choisissez et justifiez l'approche la plus cohérente]
+> ```
 
 ### 4. 📊 Chain-of-Table
 
@@ -263,29 +286,25 @@ Conclusion : [Choisissez et justifiez l'approche la plus cohérente]
 
 **Utilisation** : Optimale pour l'analyse de données structurées ou les questions basées sur des tableaux.
 
-**Exemple** :
-
-| Étape | Action | Résultat | Implication |
-|-------|--------|----------|-------------|
-| 1 | Identifier les espèces menacées | Liste de 10 espèces | Priorité de conservation |
-| 2 | Analyser les causes de déclin | Surpêche, pollution | Nécessité de régulation |
-| 3 | Évaluer l'impact économique | Perte de $1B/an | Urgence d'action |
-| 4 | Proposer des solutions | Zones protégées, quotas | Plan d'action concret |
+> **Exemple** :
+> 
+> | **Étape** | **Action** | **Résultat** | **Implication** |
+> |-----------|------------|--------------|-----------------|
+> | 1 | Identifier les espèces menacées | Liste de 10 espèces | Priorité de conservation |
+> | 2 | Analyser les causes de déclin | Surpêche, pollution | Nécessité de régulation |
+> | 3 | Évaluer l'impact économique | Perte de $1B/an | Urgence d'action |
+> | 4 | Proposer des solutions | Zones protégées, quotas | Plan d'action concret |
 
 ### 5. 🔍 Three-Hop Reasoning (THOR)
-
-<div align="center">
-
-</div>
 
 **Description** : Décomposez l'analyse en trois étapes distinctes pour une compréhension approfondie.
 
 **Utilisation** : Efficace pour l'analyse de sentiments et les tâches de compréhension nuancée.
 
-**Exemple** :
-1. **Identification** : Le texte traite principalement de l'impact des réseaux sociaux sur la santé mentale des adolescents.
-2. **Analyse** : Les termes utilisés comme "addiction", "anxiété" et "dépression" suggèrent une corrélation négative entre l'usage intensif des réseaux sociaux et le bien-être mental.
-3. **Conclusion** : L'étude indique un impact globalement négatif des réseaux sociaux sur la santé mentale des adolescents, nécessitant des stratégies d'utilisation plus saines et une sensibilisation accrue.
+> **Exemple** :
+> 1. **Identification** : Le texte traite principalement de l'impact des réseaux sociaux sur la santé mentale des adolescents.
+> 2. **Analyse** : Les termes utilisés comme "addiction", "anxiété" et "dépression" suggèrent une corrélation négative entre l'usage intensif des réseaux sociaux et le bien-être mental.
+> 3. **Conclusion** : L'étude indique un impact globalement négatif des réseaux sociaux sur la santé mentale des adolescents, nécessitant des stratégies d'utilisation plus saines et une sensibilisation accrue.
 
 ### 6. 🌍 Context-Aware Prompting
 
@@ -293,19 +312,23 @@ Conclusion : [Choisissez et justifiez l'approche la plus cohérente]
 
 **Utilisation** : Améliore la précision en intégrant des informations contextuelles pertinentes.
 
-**Exemple** :
-```markdown
-Contexte : Analyse d'un rapport financier trimestriel d'une entreprise technologique en période de récession économique.
-
-Prompt : En tenant compte du ralentissement économique actuel et des défis spécifiques au secteur technologique (pénurie de puces, régulations sur la vie privée), analysez les points suivants du rapport trimestriel de TechCorp :
-1. Croissance des revenus par rapport aux prévisions du marché
-2. Stratégies d'adaptation à la récession mises en place
-3. Investissements en R&D et leur potentiel impact à long terme
-4. Santé de la chaîne d'approvisionnement
-5. Perspectives pour le prochain trimestre
-```
+> **Exemple** :
+> ```markdown
+> Contexte : Analyse d'un rapport financier trimestriel d'une entreprise technologique en période de récession économique.
+> 
+> Prompt : En tenant compte du ralentissement économique actuel et des défis spécifiques au secteur technologique (pénurie de puces, régulations sur la vie privée), analysez les points suivants du rapport trimestriel de TechCorp :
+> 1. Croissance des revenus par rapport aux prévisions du marché
+> 2. Stratégies d'adaptation à la récession mises en place
+> 3. Investissements en R&D et leur potentiel impact à long terme
+> 4. Santé de la chaîne d'approvisionnement
+> 5. Perspectives pour le prochain trimestre
+> ```
 
 ### 7. 🌳 Hierarchical Prompting
+
+**Description** : Structurez le prompt en niveaux hiérarchiques pour aborder des problèmes complexes de manière organisée.
+
+**Utilisation** : Efficace pour décomposer des tâches complexes en sous-tâches gérables.
 
 <div align="center">
 
@@ -326,27 +349,25 @@ graph TD
     style D fill:#c83349,stroke:#333,stroke-width:2px
 ```
 
+*Figure 6: Structure du Hierarchical Prompting*
+
 </div>
 
-**Description** : Structurez le prompt en niveaux hiérarchiques pour aborder des problèmes complexes de manière organisée.
-
-**Utilisation** : Efficace pour décomposer des tâches complexes en sous-tâches gérables.
-
-**Exemple** :
-```markdown
-Niveau 1: Analysez l'impact du changement climatique sur l'agriculture mondiale
-  Niveau 2.1: Effets sur les principales cultures céréalières
-    Niveau 3.1: Impact sur le blé
-    Niveau 3.2: Impact sur le riz
-    Niveau 3.3: Impact sur le maïs
-  Niveau 2.2: Conséquences sur la sécurité alimentaire
-    Niveau 3.4: Pays les plus vulnérables
-    Niveau 3.5: Stratégies d'adaptation potentielles
-  Niveau 2.3: Innovations agricoles en réponse au changement climatique
-    Niveau 3.6: Cultures résistantes à la sécheresse
-    Niveau 3.7: Techniques d'agriculture de précision
-Conclusion: Synthèse des défis et opportunités
-```
+> **Exemple** :
+> ```markdown
+> Niveau 1: Analysez l'impact du changement climatique sur l'agriculture mondiale
+>   Niveau 2.1: Effets sur les principales cultures céréalières
+>     Niveau 3.1: Impact sur le blé
+>     Niveau 3.2: Impact sur le riz
+>     Niveau 3.3: Impact sur le maïs
+>   Niveau 2.2: Conséquences sur la sécurité alimentaire
+>     Niveau 3.4: Pays les plus vulnérables
+>     Niveau 3.5: Stratégies d'adaptation potentielles
+>   Niveau 2.3: Innovations agricoles en réponse au changement climatique
+>     Niveau 3.6: Cultures résistantes à la sécheresse
+>     Niveau 3.7: Techniques d'agriculture de précision
+> Conclusion: Synthèse des défis et opportunités
+> ```
 
 ### 8. ⚖️ Contrastive Prompting
 
@@ -354,22 +375,22 @@ Conclusion: Synthèse des défis et opportunités
 
 **Utilisation** : Aide à clarifier des nuances ou des distinctions subtiles.
 
-**Exemple** :
-```markdown
-Comparez et contrastez les approches suivantes en matière de gestion d'entreprise :
-
-Approche A: Leadership autocratique avec prise de décision centralisée
-Approche B: Management participatif avec responsabilisation des employés
-
-Analysez :
-1. L'impact sur la motivation des employés
-2. La vitesse de prise de décision
-3. L'innovation et la créativité au sein de l'entreprise
-4. La rétention des talents
-5. L'adaptabilité face aux changements du marché
-
-Concluez en identifiant les contextes où chaque approche pourrait être plus appropriée.
-```
+> **Exemple** :
+> ```markdown
+> Comparez et contrastez les approches suivantes en matière de gestion d'entreprise :
+> 
+> Approche A: Leadership autocratique avec prise de décision centralisée
+> Approche B: Management participatif avec responsabilisation des employés
+> 
+> Analysez :
+> 1. L'impact sur la motivation des employés
+> 2. La vitesse de prise de décision
+> 3. L'innovation et la créativité au sein de l'entreprise
+> 4. La rétention des talents
+> 5. L'adaptabilité face aux changements du marché
+> 
+> Concluez en identifiant les contextes où chaque approche pourrait être plus appropriée.
+> ```
 
 ### 9. 🔬 Prompt Augmentation
 
@@ -377,25 +398,29 @@ Concluez en identifiant les contextes où chaque approche pourrait être plus ap
 
 **Utilisation** : Améliore la précision en fournissant plus de contexte ou de détails pertinents.
 
-**Exemple** :
-```markdown
-Contexte initial : Analysez l'avenir de la mobilité urbaine.
-
-Informations augmentées :
-- La population urbaine mondiale devrait atteindre 68% d'ici 2050.
-- Les émissions de CO2 liées au transport représentent 24% des émissions globales.
-- L'essor des véhicules électriques et autonomes transforme l'industrie automobile.
-- Le concept de "Mobility as a Service" (MaaS) gagne en popularité.
-- Les infrastructures de nombreuses villes sont vieillissantes et saturées.
-
-En tenant compte de ces informations supplémentaires, analysez :
-1. Les défis majeurs de la mobilité urbaine pour les 30 prochaines années
-2. Les solutions innovantes les plus prometteuses
-3. Les implications sociales et économiques de ces changements
-4. Les politiques urbaines nécessaires pour faciliter cette transition
-```
+> **Exemple** :
+> ```markdown
+> Contexte initial : Analysez l'avenir de la mobilité urbaine.
+> 
+> Informations augmentées :
+> - La population urbaine mondiale devrait atteindre 68% d'ici 2050.
+> - Les émissions de CO2 liées au transport représentent 24% des émissions globales.
+> - L'essor des véhicules électriques et autonomes transforme l'industrie automobile.
+> - Le concept de "Mobility as a Service" (MaaS) gagne en popularité.
+> - Les infrastructures de nombreuses villes sont vieillissantes et saturées.
+> 
+> En tenant compte de ces informations supplémentaires, analysez :
+> 1. Les défis majeurs de la mobilité urbaine pour les 30 prochaines années
+> 2. Les solutions innovantes les plus prometteuses
+> 3. Les implications sociales et économiques de ces changements
+> 4. Les politiques urbaines nécessaires pour faciliter cette transition
+> ```
 
 ### 10. 📊 Sequential Prompting
+
+**Description** : Décomposez une tâche complexe en une série d'étapes séquentielles, comme un chef d'orchestre guidant chaque section instrumentale.
+
+**Utilisation** : Idéal pour guider le LLM à travers un processus de raisonnement ou de résolution de problème étape par étape.
 
 <div align="center">
 
@@ -415,36 +440,34 @@ sequenceDiagram
     AI->>H: Réponse Étape 5
 ```
 
+*Figure 7: Processus de Sequential Prompting*
+
 </div>
 
-**Description** : Décomposez une tâche complexe en une série d'étapes séquentielles, comme un chef d'orchestre guidant chaque section instrumentale.
-
-**Utilisation** : Idéal pour guider le LLM à travers un processus de raisonnement ou de résolution de problème étape par étape.
-
-**Exemple** :
-```markdown
-Sujet : Résoudre la crise du logement dans les grandes métropoles
-
-Étape 1 : Définissez la crise du logement et ses principales manifestations.
-[Réponse du LLM]
-
-Étape 2 : Identifiez les causes profondes de cette crise (économiques, politiques, sociales).
-[Réponse du LLM]
-
-Étape 3 : Analysez les solutions actuellement mises en œuvre et leur efficacité.
-[Réponse du LLM]
-
-Étape 4 : Proposez des solutions innovantes basées sur des exemples internationaux réussis.
-[Réponse du LLM]
-
-Étape 5 : Évaluez la faisabilité et l'impact potentiel de ces solutions.
-[Réponse du LLM]
-
-Étape 6 : Élaborez un plan d'action détaillé pour mettre en œuvre la solution la plus prometteuse.
-[Réponse du LLM]
-
-Conclusion : Synthétisez les points clés et formulez des recommandations finales.
-```
+> **Exemple** :
+> ```markdown
+> Sujet : Résoudre la crise du logement dans les grandes métropoles
+> 
+> Étape 1 : Définissez la crise du logement et ses principales manifestations.
+> [Réponse du LLM]
+> 
+> Étape 2 : Identifiez les causes profondes de cette crise (économiques, politiques, sociales).
+> [Réponse du LLM]
+> 
+> Étape 3 : Analysez les solutions actuellement mises en œuvre et leur efficacité.
+> [Réponse du LLM]
+> 
+> Étape 4 : Proposez des solutions innovantes basées sur des exemples internationaux réussis.
+> [Réponse du LLM]
+> 
+> Étape 5 : Évaluez la faisabilité et l'impact potentiel de ces solutions.
+> [Réponse du LLM]
+> 
+> Étape 6 : Élaborez un plan d'action détaillé pour mettre en œuvre la solution la plus prometteuse.
+> [Réponse du LLM]
+> 
+> Conclusion : Synthétisez les points clés et formulez des recommandations finales.
+> ```
 
 ### 11. 🧠 Meta-Prompting
 
@@ -452,41 +475,37 @@ Conclusion : Synthétisez les points clés et formulez des recommandations final
 
 **Utilisation** : Encourage une réflexion plus profonde et une auto-évaluation du processus de raisonnement.
 
-**Exemple** :
-```markdown
-Pour résoudre le problème de la désinformation en ligne, suivez ces étapes métacognitives :
-
-1. Clarification : Reformulez le problème de la désinformation en ligne dans vos propres termes.
-2. Analyse : Identifiez les principaux facteurs contribuant à la propagation de la désinformation.
-3. Connaissances : Réfléchissez aux domaines de connaissance pertinents pour ce problème (psychologie sociale, technologie, médias, etc.).
-4. Stratégie : Proposez plusieurs approches pour combattre la désinformation.
-5. Évaluation critique : Pour chaque approche, identifiez ses forces et ses faiblesses.
-6. Synthèse : Combinez les meilleures idées en une stratégie cohérente.
-7. Réflexion : Après avoir formulé votre stratégie, réfléchissez à votre processus de raisonnement. Quels biais potentiels pourriez-vous avoir ? Quelles perspectives alternatives devraient être considérées ?
-8. Itération : Basé sur votre réflexion, affinez votre stratégie.
-9. Plan d'action : Proposez des étapes concrètes pour mettre en œuvre votre stratégie affinée.
-```
+> **Exemple** :
+> ```markdown
+> Pour résoudre le problème de la désinformation en ligne, suivez ces étapes métacognitives :
+> 
+> 1. Clarification : Reformulez le problème de la désinformation en ligne dans vos propres termes.
+> 2. Analyse : Identifiez les principaux facteurs contribuant à la propagation de la désinformation.
+> 3. Connaissances : Réfléchissez aux domaines de connaissance pertinents pour ce problème (psychologie sociale, technologie, médias, etc.).
+> 4. Stratégie : Proposez plusieurs approches pour combattre la désinformation.
+> 5. Évaluation critique : Pour chaque approche, identifiez ses forces et ses faiblesses.
+> 6. Synthèse : Combinez les meilleures idées en une stratégie cohérente.
+> 7. Réflexion : Après avoir formulé votre stratégie, réfléchissez à votre processus de raisonnement. Quels biais potentiels pourriez-vous avoir ? Quelles perspectives alternatives devraient être considérées ?
+> 8. Itération : Basé sur votre réflexion, affinez votre stratégie.
+> 9. Plan d'action : Proposez des étapes concrètes pour mettre en œuvre votre stratégie affinée.
+> ```
 
 ### 12. 📚 Implicit Retrieval Augmented Generation (Implicit RAG)
-
-<div align="center">
-
-</div>
 
 **Description** : Le LLM extrait lui-même les informations pertinentes du contexte avant de répondre, comme un chercheur consultant sa bibliothèque mentale.
 
 **Utilisation** : Efficace pour les tâches de question-réponse contextuelles, notamment dans les domaines spécialisés.
 
-**Exemple** :
-```markdown
-Contexte : [Long texte sur l'histoire et le développement de l'intelligence artificielle, incluant des informations sur l'apprentissage profond, les réseaux neuronaux, et les applications de l'IA dans divers domaines]
-
-Instructions :
-1. Identifiez les sections pertinentes du texte pour répondre à la question suivante.
-2. Utilisez ces informations pour formuler votre réponse.
-
-Question : Comment l'avènement de l'apprentissage profond a-t-il transformé le domaine de la vision par ordinateur ?
-```
+> **Exemple** :
+> ```markdown
+> Contexte : [Long texte sur l'histoire et le développement de l'intelligence artificielle, incluant des informations sur l'apprentissage profond, les réseaux neuronaux, et les applications de l'IA dans divers domaines]
+> 
+> Instructions :
+> 1. Identifiez les sections pertinentes du texte pour répondre à la question suivante.
+> 2. Utilisez ces informations pour formuler votre réponse.
+> 
+> Question : Comment l'avènement de l'apprentissage profond a-t-il transformé le domaine de la vision par ordinateur ?
+> ```
 
 ### 13. 🔍 System 2 Attention (S2A)
 
@@ -494,15 +513,15 @@ Question : Comment l'avènement de l'apprentissage profond a-t-il transformé le
 
 **Utilisation** : Améliore la précision en réduisant les distractions.
 
-**Exemple** :
-```markdown
-Étape 1 : Régénérez le contexte en ne conservant que les informations pertinentes à l'histoire de la cryptographie et de la sécurité informatique.
-
-[Contexte original contenant des informations variées sur l'informatique]
-
-Étape 2 : En utilisant le contexte régénéré, répondez à la question suivante :
-Comment l'invention de la cryptographie asymétrique a-t-elle révolutionné la sécurité des communications numériques ?
-```
+> **Exemple** :
+> ```markdown
+> Étape 1 : Régénérez le contexte en ne conservant que les informations pertinentes à l'histoire de la cryptographie et de la sécurité informatique.
+> 
+> [Contexte original contenant des informations variées sur l'informatique]
+> 
+> Étape 2 : En utilisant le contexte régénéré, répondez à la question suivante :
+> Comment l'invention de la cryptographie asymétrique a-t-elle révolutionné la sécurité des communications numériques ?
+> ```
 
 ### 14. ✅ Chain-of-Verification (CoVe)
 
@@ -510,26 +529,26 @@ Comment l'invention de la cryptographie asymétrique a-t-elle révolutionné la 
 
 **Utilisation** : Réduit les hallucinations et améliore la précision factuelle.
 
-**Exemple** :
-```markdown
-Sujet : L'impact de l'intelligence artificielle sur l'emploi
-
-1. Génération initiale : [Générez une analyse initiale de l'impact de l'IA sur l'emploi]
-
-2. Vérification : Générez 5 questions factuelles basées sur votre analyse initiale.
-   Q1 : [Question 1]
-   Q2 : [Question 2]
-   ...
-
-3. Réponses aux vérifications : Répondez à chaque question de vérification en citant des sources fiables si possible.
-   R1 : [Réponse 1 avec source]
-   R2 : [Réponse 2 avec source]
-   ...
-
-4. Correction : Basé sur les réponses de vérification, corrigez et améliorez votre analyse initiale.
-
-[Analyse finale corrigée et améliorée]
-```
+> **Exemple** :
+> ```markdown
+> Sujet : L'impact de l'intelligence artificielle sur l'emploi
+> 
+> 1. Génération initiale : [Générez une analyse initiale de l'impact de l'IA sur l'emploi]
+> 
+> 2. Vérification : Générez 5 questions factuelles basées sur votre analyse initiale.
+>    Q1 : [Question 1]
+>    Q2 : [Question 2]
+>    ...
+> 
+> 3. Réponses aux vérifications : Répondez à chaque question de vérification en citant des sources fiables si possible.
+>    R1 : [Réponse 1 avec source]
+>    R2 : [Réponse 2 avec source]
+>    ...
+> 
+> 4. Correction : Basé sur les réponses de vérification, corrigez et améliorez votre analyse initiale.
+> 
+> [Analyse finale corrigée et améliorée]
+> ```
 
 ### 15. 🧠 Chain-of-Knowledge (CoK)
 
@@ -537,23 +556,23 @@ Sujet : L'impact de l'intelligence artificielle sur l'emploi
 
 **Utilisation** : Améliore la précision en adaptant les connaissances au contexte spécifique.
 
-**Exemple** :
-```markdown
-Sujet : L'impact des véhicules électriques sur l'environnement
-
-1. Préparation : Identifiez les domaines de connaissances pertinents.
-   - Technologies des batteries
-   - Production d'électricité et mix énergétique
-   - Cycle de vie des véhicules
-   - Émissions de gaz à effet de serre
-   - Extraction des matières premières
-
-2. Adaptation : Intégrez et adaptez les connaissances au contexte spécifique des véhicules électriques.
-   [Détaillez comment chaque domaine de connaissance s'applique spécifiquement aux véhicules électriques]
-
-3. Synthèse : Formulez une analyse complète de l'impact environnemental des véhicules électriques.
-   [Présentez une analyse synthétique intégrant toutes les connaissances adaptées]
-```
+> **Exemple** :
+> ```markdown
+> Sujet : L'impact des véhicules électriques sur l'environnement
+> 
+> 1. Préparation : Identifiez les domaines de connaissances pertinents.
+>    - Technologies des batteries
+>    - Production d'électricité et mix énergétique
+>    - Cycle de vie des véhicules
+>    - Émissions de gaz à effet de serre
+>    - Extraction des matières premières
+> 
+> 2. Adaptation : Intégrez et adaptez les connaissances au contexte spécifique des véhicules électriques.
+>    [Détaillez comment chaque domaine de connaissance s'applique spécifiquement aux véhicules électriques]
+> 
+> 3. Synthèse : Formulez une analyse complète de l'impact environnemental des véhicules électriques.
+>    [Présentez une analyse synthétique intégrant toutes les connaissances adaptées]
+> ```
 
 ### 16. 💻 Chain-of-Code (CoC)
 
@@ -561,36 +580,38 @@ Sujet : L'impact des véhicules électriques sur l'environnement
 
 **Utilisation** : Efficace pour des tâches impliquant des calculs complexes ou manipulations de données.
 
-**Exemple** :
-```python
-def analyser_impact_environnemental(production_CO2, duree_vie, recyclabilite):
-    # Étape 1 : Calculer l'empreinte carbone annuelle
-    empreinte_annuelle = production_CO2 / duree_vie
-    print(f"Empreinte carbone annuelle : {empreinte_annuelle} kg CO2/an")
-    
-    # Étape 2 : Évaluer l'impact du recyclage
-    impact_recyclage = production_CO2 * (1 - recyclabilite)
-    print(f"Impact après recyclage : {impact_recyclage} kg CO2")
-    
-    # Étape 3 : Calculer le score d'impact global
-    score_impact = (empreinte_annuelle * duree_vie + impact_recyclage) / 1000
-    print(f"Score d'impact environnemental : {score_impact:.2f} tonnes CO2")
-    
-    return score_impact
+> **Exemple** :
+> ```python
+> def analyser_impact_environnemental(production_CO2, duree_vie, recyclabilite):
+>     # Étape 1 : Calculer l'empreinte carbone annuelle
+>     empreinte_annuelle = production_CO2 / duree_vie
+>     print(f"Empreinte carbone annuelle : {empreinte_annuelle} kg CO2/an")
+>     
+>     # Étape 2 : Évaluer l'impact du recyclage
+>     impact_recyclage = production_CO2 * (1 - recyclabilite)
+>     print(f"Impact après recyclage : {impact_recyclage} kg CO2")
+>     
+>     # Étape 3 : Calculer le score d'impact global
+>     score_impact = (empreinte_annuelle * duree_vie + impact_recyclage) / 1000
+>     print(f"Score d'impact environnemental : {score_impact:.2f} tonnes CO2")
+>     
+>     return score_impact
+> 
+> # Exemple d'utilisation
+> vehicule_electrique = analyser_impact_environnemental(production_CO2=7000, duree_vie=10, recyclabilite=0.7)
+> vehicule_thermique = analyser_impact_environnemental(production_CO2=5000, duree_vie=15, recyclabilite=0.8)
+> 
+> print(f"\nComparaison :")
+> print(f"Véhicule électrique : {vehicule_electrique:.2f} tonnes CO2")
+> print(f"Véhicule thermique : {vehicule_thermique:.2f} tonnes CO2")
+> 
+> if vehicule_electrique < vehicule_thermique:
+>     print("Le véhicule électrique a un impact environnemental plus faible.")
+> else:
+>     print("Le véhicule thermique a un impact environnemental plus faible.")
+> ```
 
-# Exemple d'utilisation
-vehicule_electrique = analyser_impact_environnemental(production_CO2=7000, duree_vie=10, recyclabilite=0.7)
-vehicule_thermique = analyser_impact_environnemental(production_CO2=5000, duree_vie=15, recyclabilite=0.8)
-
-print(f"\nComparaison :")
-print(f"Véhicule électrique : {vehicule_electrique:.2f} tonnes CO2")
-print(f"Véhicule thermique : {vehicule_thermique:.2f} tonnes CO2")
-
-if vehicule_electrique < vehicule_thermique:
-    print("Le véhicule électrique a un impact environnemental plus faible.")
-else:
-    print("Le véhicule thermique a un impact environnemental plus faible.")
-```
+---
 
 ## 🧩 Combinaisons et Stratégies Hybrides
 
@@ -650,32 +671,32 @@ Analysons ce tableau de ventes trimestrielles selon trois approches différentes
 
 **Approche 1: Analyse de la croissance séquentielle**
 
-| Trimestre | Ventes (M$) | Croissance |
-|:---------:|:-----------:|:----------:|
-| Q1        | 100         | -          |
-| Q2        | 120         | 20%        |
-| Q3        | 135         | 12.5%      |
-| Q4        | 150         | 11.1%      |
+| **Trimestre** | **Ventes (M$)** | **Croissance** |
+|:-------------:|:---------------:|:--------------:|
+| Q1            | 100             | -              |
+| Q2            | 120             | 20%            |
+| Q3            | 135             | 12.5%          |
+| Q4            | 150             | 11.1%          |
 
 Conclusion 1: Croissance constante mais décélérante au fil de l'année.
 
 **Approche 2: Analyse de la performance semestrielle**
 
-| Période      | Ventes (M$) | % du Total Annuel |
-|:------------:|:-----------:|:-----------------:|
-| S1 (Q1+Q2)   | 220         | 43.6%             |
-| S2 (Q3+Q4)   | 285         | 56.4%             |
+| **Période**   | **Ventes (M$)** | **% du Total Annuel** |
+|:-------------:|:---------------:|:---------------------:|
+| S1 (Q1+Q2)    | 220             | 43.6%                 |
+| S2 (Q3+Q4)    | 285             | 56.4%                 |
 
 Conclusion 2: Fort momentum au second semestre, représentant plus de la moitié des ventes annuelles.
 
 **Approche 3: Analyse des variations saisonnières**
 
-| Trimestre | Ventes (M$) | % du Total | Facteur Saisonnier |
-|:---------:|:-----------:|:----------:|:------------------:|
-| Q1        | 100         | 19.8%      | 0.792              |
-| Q2        | 120         | 23.8%      | 0.952              |
-| Q3        | 135         | 26.7%      | 1.068              |
-| Q4        | 150         | 29.7%      | 1.188              |
+| **Trimestre** | **Ventes (M$)** | **% du Total** | **Facteur Saisonnier** |
+|:-------------:|:---------------:|:--------------:|:----------------------:|
+| Q1            | 100             | 19.8%          | 0.792                  |
+| Q2            | 120             | 23.8%          | 0.952                  |
+| Q3            | 135             | 26.7%          | 1.068                  |
+| Q4            | 150             | 29.7%          | 1.188                  |
 
 Conclusion 3: Fort effet saisonnier avec un pic au Q4, probablement dû aux fêtes de fin d'année.
 
@@ -795,6 +816,7 @@ class CandidatePool:
             'diversity_factor': random.random()
         }
 
+```python
 class AIRecruiter:
     def __init__(self, bias_factor=0.1):
         self.bias_factor = bias_factor
@@ -851,13 +873,13 @@ Pour illustrer l'application concrète de ces techniques avancées, voici quelqu
 
 **Étape 1: Collecte et présentation des données (Chain-of-Table)**
 
-| Indicateur          | Année N-2 | Année N-1 | Année N |
-|:-------------------:|:---------:|:---------:|:-------:|
-| Chiffre d'affaires  | 100M$     | 150M$     | 250M$   |
-| Marge bénéficiaire  | 10%       | 15%       | 18%     |
-| R&D (% du CA)       | 20%       | 25%       | 30%     |
-| Dette/Fonds propres | 0.5       | 0.8       | 1.2     |
-| Flux de trésorerie  | 5M$       | 10M$      | 15M$    |
+| **Indicateur**        | **Année N-2** | **Année N-1** | **Année N** |
+|:---------------------:|:-------------:|:-------------:|:-----------:|
+| Chiffre d'affaires    | 100M$         | 150M$         | 250M$       |
+| Marge bénéficiaire    | 10%           | 15%           | 18%         |
+| R&D (% du CA)         | 20%           | 25%           | 30%         |
+| Dette/Fonds propres   | 0.5           | 0.8           | 1.2         |
+| Flux de trésorerie    | 5M$           | 10M$          | 15M$        |
 
 **Étape 2: Analyse des tendances (CoT)**
 
@@ -1041,7 +1063,7 @@ L'utilisation avancée des techniques de prompt engineering soulève des questio
 ### 3. Fiabilité et Vérifiabilité 📊
 
 - **Enjeu** : Les LLMs peuvent parfois générer des informations inexactes ou "halluciner" des faits.
-- **Considération** : Implémenter des techniques comme Chain-of-Verification (CoVe) pour vérifier la fiabilité des informations générées.
+- **Considération** : Implémenter des techniques comme Chain-of-Verification (CoVe) pour vérifier la fiabilité des informations générées
 - **Exemple** :
   ```markdown
   Prompt : "Après avoir fourni votre analyse, générez une liste de vérifications factuelles pour valider les points clés. Pour chaque fait important, indiquez votre niveau de confiance et suggérez des sources qui pourraient être consultées pour confirmation."
