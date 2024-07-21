@@ -1,4 +1,10 @@
+<div align="center">
+
+![svjay](https://github.com/user-attachments/assets/a80c242b-0cea-4a1c-a61d-024627401692)
+
 # Techniques Avancées de Prompt Engineering pour LLMs
+
+</div>
 
 ![Banner](https://img.shields.io/badge/Prompt%20Engineering-Advanced%20Techniques-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
 
