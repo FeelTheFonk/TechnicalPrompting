@@ -649,34 +649,34 @@ Ce code calcule le coût pour chaque année en appliquant l'inflation au coût i
 Analysons ce tableau de ventes trimestrielles selon trois approches différentes :
 
 **Approche 1: Analyse de la croissance séquentielle**
-```
+
 | Trimestre | Ventes (M$) | Croissance |
-|-----------|-------------|------------|
+|:---------:|:-----------:|:----------:|
 | Q1        | 100         | -          |
 | Q2        | 120         | 20%        |
 | Q3        | 135         | 12.5%      |
 | Q4        | 150         | 11.1%      |
-```
+
 Conclusion 1: Croissance constante mais décélérante au fil de l'année.
 
 **Approche 2: Analyse de la performance semestrielle**
-```
+
 | Période      | Ventes (M$) | % du Total Annuel |
-|--------------|-------------|-------------------|
+|:------------:|:-----------:|:-----------------:|
 | S1 (Q1+Q2)   | 220         | 43.6%             |
 | S2 (Q3+Q4)   | 285         | 56.4%             |
-```
+
 Conclusion 2: Fort momentum au second semestre, représentant plus de la moitié des ventes annuelles.
 
 **Approche 3: Analyse des variations saisonnières**
-```
+
 | Trimestre | Ventes (M$) | % du Total | Facteur Saisonnier |
-|-----------|-------------|------------|---------------------|
-| Q1        | 100         | 19.8%      | 0.792               |
-| Q2        | 120         | 23.8%      | 0.952               |
-| Q3        | 135         | 26.7%      | 1.068               |
-| Q4        | 150         | 29.7%      | 1.188               |
-```
+|:---------:|:-----------:|:----------:|:------------------:|
+| Q1        | 100         | 19.8%      | 0.792              |
+| Q2        | 120         | 23.8%      | 0.952              |
+| Q3        | 135         | 26.7%      | 1.068              |
+| Q4        | 150         | 29.7%      | 1.188              |
+
 Conclusion 3: Fort effet saisonnier avec un pic au Q4, probablement dû aux fêtes de fin d'année.
 
 **Analyse de cohérence** :
@@ -749,11 +749,10 @@ L'entreprise montre une croissance solide avec une forte saisonnalité favorable
 
 #### Exemple
 
-**Problème éthique** : "L'utilisation de l'int
-
-elligence artificielle dans les processus de recrutement : avantages, risques et implications éthiques"
+**Problème éthique** : "L'utilisation de l'intelligence artificielle dans les processus de recrutement : avantages, risques et implications éthiques"
 
 **Structure hiérarchique** :
+```
 1. Définition du problème
    - 1.1 Objectifs de l'IA dans le recrutement
    - 1.2 Technologies et méthodes utilisées
@@ -779,6 +778,7 @@ elligence artificielle dans les processus de recrutement : avantages, risques et
    - 6.2 Transparence et droit à l'explication
    - 6.3 Supervision humaine
    - 6.4 Formation éthique pour les développeurs et utilisateurs
+```
 
 **Simulation d'impact (Chain-of-Code)** :
 ```python
@@ -852,7 +852,7 @@ Pour illustrer l'application concrète de ces techniques avancées, voici quelqu
 **Étape 1: Collecte et présentation des données (Chain-of-Table)**
 
 | Indicateur          | Année N-2 | Année N-1 | Année N |
-|---------------------|-----------|-----------|---------|
+|:-------------------:|:---------:|:---------:|:-------:|
 | Chiffre d'affaires  | 100M$     | 150M$     | 250M$   |
 | Marge bénéficiaire  | 10%       | 15%       | 18%     |
 | R&D (% du CA)       | 20%       | 25%       | 30%     |
@@ -927,7 +927,6 @@ Basé sur notre analyse :
    - Forte polarisation des opinions exprimées
 
 2. **Analyse (THOR + Context-Aware)** :
-
 
    - **Répartition des sentiments** :
      - Environ 45% de tweets positifs, saluant l'ambition de la politique
@@ -1015,6 +1014,8 @@ Basé sur notre analyse :
 
 Ce système de recommandation éthique vise à équilibrer personnalisation, diversité et transparence. En utilisant une approche combinant apprentissage automatique et considérations éthiques, nous cherchons à créer une expérience utilisateur enrichissante tout en respectant les principes de responsabilité algorithmique. L'accent mis sur l'explicabilité et l'adaptabilité du système permet une évolution continue vers des recommandations toujours plus pertinentes et éthiques.
 
+---
+
 ## 🤔 Considérations Éthiques
 
 L'utilisation avancée des techniques de prompt engineering soulève des questions éthiques importantes qu'il est crucial d'aborder :
@@ -1055,6 +1056,8 @@ L'utilisation avancée des techniques de prompt engineering soulève des questio
   Prompt : "Fournissez une analyse pour aider à la prise de décision, mais soulignez clairement les points nécessitant un jugement humain ou une expertise spécifique. Identifiez les aspects de la décision qui ne devraient pas être automatisés."
   ```
 
+---
+
 ## 🔮 Conclusion et Perspectives
 
 Le prompt engineering avancé représente une frontière passionnante dans le domaine de l'intelligence artificielle, offrant des opportunités sans précédent pour exploiter le plein potentiel des modèles de langage large (LLMs). À mesure que nous continuons à repousser les limites de ce que ces systèmes peuvent accomplir, il est crucial de maintenir un équilibre entre innovation et responsabilité éthique.
@@ -1067,53 +1070,54 @@ Le prompt engineering avancé représente une frontière passionnante dans le do
 
 ### Perspectives d'Avenir 🚀
 
-1. **IA Générative non-biaisée** : L'avenir verra probablement l'émergence de techniques de prompt engineering spécifiquement conçues pour garantir des résultats non biaisés.
+1. **IA Générative non-biaisée** : Émergence de techniques spécifiques pour garantir des résultats non biaisés.
 
-2. **Automatisation du Prompt Engineering** : Des systèmes pourraient être développés pour générer et optimiser automatiquement des prompts en fonction de tâches spécifiques.
+2. **Automatisation du Prompt Engineering** : Développement de systèmes pour générer et optimiser automatiquement des prompts.
 
-3. **Prompts Multi-Modaux** : L'intégration de différentes modalités (texte, image, son) dans les prompts ouvrira de nouvelles possibilités d'interaction avec les IA.
+3. **Prompts Multi-Modaux** : Intégration de différentes modalités (texte, image, son) pour de nouvelles interactions.
 
-4. **Personnalisation Dynamique** : Les techniques de prompt pourraient s'adapter en temps réel aux préférences et au style de chaque utilisateur.
+4. **Personnalisation Dynamique** : Adaptation en temps réel aux préférences et au style de chaque utilisateur.
 
-5. **Collaboration Homme-IA Avancée** : Le prompt engineering pourrait évoluer vers des systèmes de dialogue plus naturels et contextuels entre humains et IA.
+5. **Collaboration Homme-IA Avancée** : Évolution vers des dialogues plus naturels et contextuels.
 
-6. **IA Explicable et Transparente** : De nouvelles techniques de prompt pourraient émerger pour rendre les processus de raisonnement des IA plus compréhensibles et auditables.
+6. **IA Explicable et Transparente** : Nouvelles techniques pour rendre les processus de raisonnement plus compréhensibles.
 
-7. **Standardisation et Bonnes Pratiques** : À mesure que le domaine mûrit, nous pourrions voir l'émergence de standards industriels et de certifications pour les praticiens du prompt engineering.
+7. **Standardisation et Bonnes Pratiques** : Émergence de standards industriels et de certifications.
 
-8. **Prompt Engineering dans l'Éducation** : Les techniques avancées de prompt pourraient révolutionner l'apprentissage personnalisé et l'évaluation dans l'éducation.
+8. **Prompt Engineering dans l'Éducation** : Révolution de l'apprentissage personnalisé et de l'évaluation.
 
-9. **IA Créative et Artistique** : Le prompt engineering pourrait ouvrir de nouvelles frontières dans la création artistique assistée par IA, avec des prompts complexes guidant la génération d'œuvres d'art uniques.
+9. **IA Créative et Artistique** : Nouvelles frontières dans la création artistique assistée par IA.
 
 ### Appel à l'Action 🌟
 
-1. **Expérimentation** : N'hésitez pas à expérimenter avec différentes techniques et combinaisons pour découvrir ce qui fonctionne le mieux dans votre contexte.
+1. **Expérimentation** : Testez différentes techniques et combinaisons dans votre contexte.
 
-2. **Partage de Connaissances** : Contribuez à la communauté en partageant vos découvertes et meilleures pratiques en matière de prompt engineering.
+2. **Partage de Connaissances** : Contribuez à la communauté en partageant vos découvertes.
 
-3. **Formation Continue** : Le domaine évolue rapidement. Engagez-vous dans un apprentissage continu pour rester à la pointe des dernières avancées.
+3. **Formation Continue** : Engagez-vous dans un apprentissage continu pour rester à jour.
 
-4. **Interdisciplinarité** : Collaborez avec des experts de différents domaines pour enrichir vos approches de prompt engineering.
+4. **Interdisciplinarité** : Collaborez avec des experts de divers domaines.
 
-5. **Développement Responsable** : Intégrez des pratiques de développement responsable dans votre utilisation des LLMs, en considérant toujours l'impact sociétal de vos applications.
+5. **Développement Responsable** : Intégrez des pratiques éthiques dans votre utilisation des LLMs.
 
-6. **Promotion de la Littératie en IA** : Aidez à éduquer les autres sur les capacités et les limites des LLMs pour favoriser une utilisation informée et responsable.
+6. **Promotion de la Littératie en IA** : Éduquez sur les capacités et limites des LLMs.
 
-7. **Innovation Éthique** : Cherchez des moyens innovants d'utiliser le prompt engineering pour résoudre des problèmes sociétaux et environnementaux.
+7. **Innovation Éthique** : Utilisez le prompt engineering pour résoudre des problèmes sociétaux.
 
-8. **Feedback et Itération** : Établissez des boucles de feedback avec les utilisateurs finaux pour continuellement améliorer et affiner vos techniques de prompt.
+8. **Feedback et Itération** : Établissez des boucles de feedback avec les utilisateurs finaux.
 
-9. **Réflexion Critique** : Remettez régulièrement en question vos propres hypothèses et méthodes, en restant ouvert aux nouvelles idées et perspectives dans ce domaine.
+9. **Réflexion Critique** : Remettez en question vos hypothèses et méthodes régulièrement.
 
 En conclusion, le prompt engineering avancé n'est pas seulement une compétence technique, mais un art qui combine créativité, rigueur scientifique et responsabilité éthique. En maîtrisant ces techniques et en restant fidèles à des principes éthiques solides, nous pouvons ouvrir la voie à une nouvelle ère d'interaction homme-machine, où l'IA devient un partenaire puissant et fiable dans notre quête de connaissance et d'innovation.
 
 ---
 
 <div align="center">
-  
-Créé avec ❤️ par (https://github.com/FeelTheFonk)
-  
-  [📘 arxvis#1](https://arxiv.org/pdf/2211.12588) | [📘 arxvis#2](https://arxiv.org/pdf/2407.12994v1)
+
+Créé avec ❤️ par [FeelTheFonk](https://github.com/FeelTheFonk)
+
+[📘 arxiv#1](https://arxiv.org/pdf/2211.12588) | [📘 arxiv#2](https://arxiv.org/pdf/2407.12994v1)
+
 </div>
 
 ---
