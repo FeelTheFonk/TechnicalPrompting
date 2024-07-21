@@ -1,4 +1,4 @@
-# 🚀 Techniques Avancées de Prompt Engineering pour LLMs
+# Techniques Avancées de Prompt Engineering pour LLMs
 
 ![Banner](https://img.shields.io/badge/Prompt%20Engineering-Advanced%20Techniques-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -13,10 +13,10 @@
 ## 📚 Table des Matières
 
 1. [🌟 Introduction](#-introduction)
-2. [🔧 Techniques Fondamentales](#-techniques-fondamentales)
+2. [🎯 Optimisation des Prompts](#-optimisation-des-prompts)
 3. [🚀 Techniques Avancées](#-techniques-avancées)
 4. [🧩 Combinaisons et Stratégies Hybrides](#-combinaisons-et-stratégies-hybrides)
-5. [🎯 Optimisation des Prompts](#-optimisation-des-prompts)
+5. [🔧 Techniques Fondamentales](#-techniques-fondamentales)
 6. [💡 Exemples Pratiques](#-exemples-pratiques)
 7. [🔮 Conclusion et Perspectives](#-conclusion-et-perspectives)
 
@@ -45,6 +45,60 @@ graph LR
     D --> E[IA augmentée par l'humain]
     style E fill:#f9f,stroke:#333,stroke-width:4px
 ```
+
+---
+
+## 🎯 Optimisation des Prompts
+
+Pour tirer le meilleur parti de ces techniques avancées, voici quelques principes clés d'optimisation des prompts :
+
+1. **Clarté et spécificité** 🔍
+   - Formulez des prompts clairs et spécifiques pour obtenir des réponses précises.
+   - Exemple : Au lieu de demander "Parlez-moi de l'économie", demandez "Analysez l'impact de l'inflation sur le pouvoir d'achat des ménages en France en 2023".
+
+2. **Contextualisation** 🌍
+   - Fournissez suffisamment de contexte pour permettre une compréhension complète de la tâche.
+   - Exemple : "En tenant compte de la récente pandémie et des tensions géopolitiques, analysez..."
+
+3. **Itération** 🔄
+   - Affinez vos prompts basés sur les réponses obtenues pour améliorer progressivement les résultats.
+   - Exemple : Si la réponse est trop générale, ajoutez des contraintes spécifiques dans votre prochain prompt.
+
+4. **Décomposition** 📊
+   - Pour les tâches complexes, décomposez-les en sous-tâches plus gérables.
+   - Exemple : Utilisez le Hierarchical Prompting pour structurer une analyse complexe en plusieurs niveaux.
+
+5. **Validation croisée** ⚖️
+   - Utilisez différentes approches pour vérifier la cohérence des résultats.
+   - Exemple : Appliquez la technique de Self-Consistency en générant plusieurs réponses et en comparant leur cohérence.
+
+6. **Adaptation au modèle** 🧠
+   - Ajustez vos techniques en fonction des forces et des limites spécifiques du LLM utilisé.
+   - Exemple : Si le modèle excelle dans l'analyse de données, privilégiez des approches comme Chain-of-Table.
+
+7. **Feedback explicite** 💬
+   - Incluez des instructions pour l'auto-évaluation ou la révision dans vos prompts.
+   - Exemple : "Après avoir fourni votre analyse, évaluez sa fiabilité et suggérez des améliorations potentielles."
+
+8. **Ajustement dynamique** 🔧
+   - Adaptez dynamiquement vos prompts en fonction des réponses intermédiaires du LLM.
+   - Exemple : Si une réponse manque de détails dans un domaine spécifique, focalisez le prompt suivant sur cet aspect.
+
+9. **Utilisation de métaphores** 🎭
+   - Employez des métaphores ou des analogies pour simplifier des concepts complexes.
+   - Exemple : "Expliquez le fonctionnement de la blockchain comme si c'était un livre de comptabilité partagé."
+
+10. **Contraintes créatives** 🎨
+    - Imposez des contraintes créatives pour stimuler des réponses innovantes.
+    - Exemple : "Proposez une solution à ce problème environnemental en vous inspirant des principes de la biomimétique."
+
+11. **Perspective multiple** 👥
+    - Demandez au LLM d'aborder le problème sous différents angles ou perspectives.
+    - Exemple : "Analysez cette politique économique du point de vue d'un économiste, d'un travailleur et d'un entrepreneur."
+
+12. **Raisonnement inverse** ⏪
+    - Utilisez la technique du raisonnement inverse pour résoudre certains problèmes complexes.
+    - Exemple : "Partant du résultat souhaité, décrivez les étapes nécessaires pour y parvenir, en remontant le temps."
 
 ---
 
@@ -542,60 +596,6 @@ Conclusion : [Analysez les résultats de la simulation et formulez des recommand
 
 ---
 
-## 🎯 Optimisation des Prompts
-
-Pour tirer le meilleur parti de ces techniques avancées, voici quelques principes clés d'optimisation des prompts :
-
-1. **Clarté et spécificité** 🔍
-   - Formulez des prompts clairs et spécifiques pour obtenir des réponses précises.
-   - Exemple : Au lieu de demander "Parlez-moi de l'économie", demandez "Analysez l'impact de l'inflation sur le pouvoir d'achat des ménages en France en 2023".
-
-2. **Contextualisation** 🌍
-   - Fournissez suffisamment de contexte pour permettre une compréhension complète de la tâche.
-   - Exemple : "En tenant compte de la récente pandémie et des tensions géopolitiques, analysez..."
-
-3. **Itération** 🔄
-   - Affinez vos prompts basés sur les réponses obtenues pour améliorer progressivement les résultats.
-   - Exemple : Si la réponse est trop générale, ajoutez des contraintes spécifiques dans votre prochain prompt.
-
-4. **Décomposition** 📊
-   - Pour les tâches complexes, décomposez-les en sous-tâches plus gérables.
-   - Exemple : Utilisez le Hierarchical Prompting pour structurer une analyse complexe en plusieurs niveaux.
-
-5. **Validation croisée** ⚖️
-   - Utilisez différentes approches pour vérifier la cohérence des résultats.
-   - Exemple : Appliquez la technique de Self-Consistency en générant plusieurs réponses et en comparant leur cohérence.
-
-6. **Adaptation au modèle** 🧠
-   - Ajustez vos techniques en fonction des forces et des limites spécifiques du LLM utilisé.
-   - Exemple : Si le modèle excelle dans l'analyse de données, privilégiez des approches comme Chain-of-Table.
-
-7. **Feedback explicite** 💬
-   - Incluez des instructions pour l'auto-évaluation ou la révision dans vos prompts.
-   - Exemple : "Après avoir fourni votre analyse, évaluez sa fiabilité et suggérez des améliorations potentielles."
-
-8. **Ajustement dynamique** 🔧
-   - Adaptez dynamiquement vos prompts en fonction des réponses intermédiaires du LLM.
-   - Exemple : Si une réponse manque de détails dans un domaine spécifique, focalisez le prompt suivant sur cet aspect.
-
-9. **Utilisation de métaphores** 🎭
-   - Employez des métaphores ou des analogies pour simplifier des concepts complexes.
-   - Exemple : "Expliquez le fonctionnement de la blockchain comme si c'était un livre de comptabilité partagé."
-
-10. **Contraintes créatives** 🎨
-    - Imposez des contraintes créatives pour stimuler des réponses innovantes.
-    - Exemple : "Proposez une solution à ce problème environnemental en vous inspirant des principes de la biomimétique."
-
-11. **Perspective multiple** 👥
-    - Demandez au LLM d'aborder le problème sous différents angles ou perspectives.
-    - Exemple : "Analysez cette politique économique du point de vue d'un économiste, d'un travailleur et d'un entrepreneur."
-
-12. **Raisonnement inverse** ⏪
-    - Utilisez la technique du raisonnement inverse pour résoudre certains problèmes complexes.
-    - Exemple : "Partant du résultat souhaité, décrivez les étapes nécessaires pour y parvenir, en remontant le temps."
-
----
-
 ## 💡 Exemples Pratiques
 
 Pour illustrer l'application concrète de ces techniques avancées, voici quelques exemples pratiques dans divers domaines :
@@ -720,7 +720,7 @@ print(f"Vrais positifs: {results['true_positives']}")
 print(f"Faux positifs: {results['false_positives']}")
 print(f"Faux négatifs: {results['false_negatives']}")
 ```
-
+```
 4. Analyse des résultats de simulation
    4.1 Efficacité : L'IA a correctement identifié un nombre significatif de criminels potentiels.
    4.2 Faux positifs : Un nombre non négligeable d'innocents ont été faussement identifiés.
@@ -732,6 +732,7 @@ print(f"Faux négatifs: {results['false_negatives']}")
    5.3 Protections légales : Mettre en place des garde-fous légaux pour protéger les droits des individus identifiés.
    5.4 Formation éthique : Former les forces de l'ordre à l'utilisation éthique de cet outil.
    5.5 Révision continue : Établir un processus de révision régulière pour ajuster le système et corriger les biais.
+```
 
 Conclusion : L'utilisation d'une IA prédictive dans le domaine de l'application de la loi présente des avantages potentiels significatifs en termes de prévention du crime, mais soulève également des préoccupations éthiques importantes. Une approche équilibrée, combinant une technologie transparente, une supervision humaine rigoureuse et des protections légales solides, est nécessaire pour maximiser les bénéfices tout en minimisant les risques pour les droits individuels et la justice sociale.
 
